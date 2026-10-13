@@ -1,0 +1,95 @@
+{
+    "name": "tessera/tessera",
+    "homepage": "https://tessera-kit.github.io/tessera-kit",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-engine"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-base"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-tenant"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-saas"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-attendance"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-catalog"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-customers"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-discounts"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-expenses"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-exports"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-inventory"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-leave"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-orders"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-organization"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-pos"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-reports"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-sales"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-shifts"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-starter"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Tessera-kit/tessera-fresh"
+        }
+    ],
+    "require-all": true,
+    "require-dependencies": false,
+    "minimum-stability": "dev",
+    "archive": {
+        "directory": "dist",
+        "format": "zip",
+        "skip-dev": true
+    },
+    "output-html": false
+}
